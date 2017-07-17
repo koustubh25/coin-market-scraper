@@ -1,0 +1,12 @@
+{
+  "offline": {
+    "window": 3,
+    "start_timestamp" : 1500217199.999,
+    "end_timestamp" : 1500389999.999,
+    "results_in_single_page" : 20,
+    "page_no" : 1
+  },
+  "online": {
+    "polling_interval": 30
+  }
+}
